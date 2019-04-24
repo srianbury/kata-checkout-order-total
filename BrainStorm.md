@@ -21,6 +21,11 @@ fields:
 
 methods:
   remove item (and update price at the same time)
+  
+
+Inventory Object
+  List of Items
+  Need to be able to create, and update items in the inventory
 
 
 Need some sort of in memory object to store the prices, specials, etc for items.
