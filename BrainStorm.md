@@ -29,3 +29,5 @@ Inventory Object
 
 
 Need some sort of in memory object to store the prices, specials, etc for items.
+
+Use a dictionary to keep track of items and their quantity
